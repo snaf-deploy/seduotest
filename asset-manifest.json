@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/seduotest/static/css/main.72c29b08.css",
-    "main.js": "/seduotest/static/js/main.97cecb1a.js",
+    "main.js": "/seduotest/static/js/main.7deb6e89.js",
     "static/js/453.e4c6d688.chunk.js": "/seduotest/static/js/453.e4c6d688.chunk.js",
     "index.html": "/seduotest/index.html",
     "main.72c29b08.css.map": "/seduotest/static/css/main.72c29b08.css.map",
-    "main.97cecb1a.js.map": "/seduotest/static/js/main.97cecb1a.js.map",
+    "main.7deb6e89.js.map": "/seduotest/static/js/main.7deb6e89.js.map",
     "453.e4c6d688.chunk.js.map": "/seduotest/static/js/453.e4c6d688.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72c29b08.css",
-    "static/js/main.97cecb1a.js"
+    "static/js/main.7deb6e89.js"
   ]
 }

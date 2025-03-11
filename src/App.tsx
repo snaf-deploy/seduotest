@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import DialoguePractice from './components/DialoguePractice';
 import DifficultConversations from './components/DifficultConversations';
 import ExercisesPage, { UserProgressProvider } from './components/ExercisesPage';
